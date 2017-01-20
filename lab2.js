@@ -1,3 +1,3 @@
 window.onload = function(){
-    alert("Welcome");
+    alert("Hi W\everyone.. Welcome to my web page!!");
 }
